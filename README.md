@@ -25,7 +25,7 @@ Welcome to my NumPy learning repository! This README serves as a quick revision 
 1. Normalize a NumPy array
 2. Replace odd numbers with -1 (vectorized)
 3. Find common elements between arrays
-4. Create a matrix using `np.tile` or broadcasting
+4. Create a matrix using `np.tile` 
 5. Extract rows based on column condition
 
 ---

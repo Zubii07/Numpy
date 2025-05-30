@@ -47,7 +47,7 @@ Welcome to my NumPy learning repository! This README serves as a quick revision 
 
 - Python 3.x
 - NumPy (v1.21+)
-- Jupyter Notebook / VSCode / Google Colab
+- Jupyter Notebook / VSCode
 
 ---
 
